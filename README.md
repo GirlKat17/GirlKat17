@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Katlego-P-Ramoroa
+**GirlKat17/GirlKat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
+
 welcome to my profile
 
 Hi I'm katlego Patience Ramoroa. A Junoir software Developer(specializing in front end developer)
@@ -14,18 +15,6 @@ My Skills
   •Javascript
   •Microsoft Office
 
-Contact Info
-
-  •[My Email](ramoroakatlego@gmail.com)
-
-  •Linkedin: https://www.linkedin.com/in/katlego-ramoroa-72085675/
-
-Thank you for visiting my profile. i look forward to connecting with you
-
-
-**GirlKat17/GirlKat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on App for the community
 
@@ -35,6 +24,7 @@ Here are some ideas to get you started:
  
     •[My Email](ramoroakatlego@gmail.com)
 
-    •Linkedin: https://www.linkedin.com/in/katlego-ramoroa-72085675/
+    •[Linkedin](https://www.linkedin.com/in/katlego-ramoroa-72085675/)
+    
 
-
+Thank you for visiting my profile. i look forward to connecting with you
