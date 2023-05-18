@@ -16,9 +16,9 @@ My Skills
 
 Contact Info
 
-•[My Email](ramoroakatlego@gmail.com)
+  •[My Email](ramoroakatlego@gmail.com)
 
-•Linkedin: https://www.linkedin.com/in/katlego-ramoroa-72085675/
+  •Linkedin: https://www.linkedin.com/in/katlego-ramoroa-72085675/
 
 Thank you for visiting my profile. i look forward to connecting with you
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
  
 - 📫 How to reach me:
  
-  •[My Email](ramoroakatlego@gmail.com)
+    •[My Email](ramoroakatlego@gmail.com)
 
-  •Linkedin: https://www.linkedin.com/in/katlego-ramoroa-72085675/
+    •Linkedin: https://www.linkedin.com/in/katlego-ramoroa-72085675/
 
 
