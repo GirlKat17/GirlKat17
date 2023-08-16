@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  Azure<br>🎯 Goals:  To be a Software Analyst - 📫 How to reach me:
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  Azure<br>🎯 Goals:  To be a Software Analyst <br>
+ 📫 How to reach me:
  
     •[My Email](ramoroakatlego@gmail.com)
 
