@@ -14,9 +14,9 @@
 <p align="left">✨ Creating bugs since 2022<br>📚 Just Completed My Diploma in Databases and T-SQL with Alison<br>🎯 Goals:  To be a  Business Analyst (BA) <br>
  📫 How to reach me:
  
-    •[My Email](ramoroakatlego@gmail.com)
+    •My Email:(ramoroakatlego@gmail.com)
 
-    •[Linkedin](https://www.linkedin.com/in/katlego-ramoroa-72085675/)</p>
+    •Linkedin:(https://www.linkedin.com/in/katlego-ramoroa-72085675/)</p>
 
 ###
 
