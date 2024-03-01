@@ -4,7 +4,8 @@ Hi there! I'm Katlego Patience Ramoroa, a Junior Software Developer specializing
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/katlego-patience-ramoroa-72085675) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katlego-patience-ramoroa-72085675)
+
 [![Padlet](https://img.shields.io/badge/PADLET-%23F58021.svg?&style=for-the-badge&logo=padlet&logoColor=white)](https://padlet.com/ramoroakatlego/get-to-know-me-l6caqg5whurgld0l)
 
 
